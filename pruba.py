@@ -1,3 +1,5 @@
-list("hola todos")
+list = ("hola todos","todo bien","xd")
 
-print(list)
+
+
+print(list[2])
